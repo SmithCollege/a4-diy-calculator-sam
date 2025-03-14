@@ -4,13 +4,14 @@
 
 Your readme should include the following information. Each student needs to submit all of this information themselves, even when pair programming. 
 
-Group Member Name(s):
+Group Member Name(s): Rimi, Rya, Sam
 
 Other collaborators you worked with, including TAs (and feel free to give a shoutout to anyone who was particularly helpful):
 
 Any references used besides JavaDoc and course materials:
 
 Reflection on your experience with this assignment:
+We had a hard time figuring out how to write the code for infixToPostfix method at first. It was difficult to incorporate PEMDAS and we had to figure out how to deal with the operators. We also felt that we had to reteach ourselves how to use the methods with queues and stacks, like pop() and offer(). 
 
 This assignment does lend itself to more visual prototyping, so please feel free to go this route. Are you including slides, pseudocode, comments, or something else?
-
+No, we do not have other documents to submit with this assignment.
